@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "All courses completed as planned!"
 ---
-My new text
 Use the left arrow to go back!
